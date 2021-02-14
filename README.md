@@ -1,4 +1,4 @@
-# **Company Name:** Sezzle
+## **Company Name:** Sezzle
 
 ![image](sezzle.jpg)
 
@@ -47,6 +47,13 @@ One major trend that has really taken off in the past few years is the mobile wa
 
 A few other companies that are competing within the same space as Sezzle is Afterpay, Klarna, Splitit, and Affirm, which recently went public on January 13th, 2021. 
 
+![image](afterpay.png)
+![image](klarna.png)
+![image](splitit.png)
+![image](affirm.png)
+
+
+
 ## Results:
 
 Sezzle has now reach a current market cap of $2.164B AUD as of 12th of feb, 2021, compared to a year ago it had an approximate market cap $350M AUD. That is an approximate 500% increase over the course of one year.
@@ -66,15 +73,15 @@ How Sezzle is performing comparing to its competitors:
 *Could not find operating metric data on affirm for FY2019
 
 
-Sources for operating metrics:
+**Sources for operating metrics:**
 
-Afterpay
+Afterpay:
 https://afterpay-corporate.yourcreative.com.au/wp-content/uploads/2020/11/28082019-FY2019-Appendix-4E-and-Annual-Report-1.pdf
 
-Klarna
+Klarna:
 https://www.klarna.com/assets/2020/04/Klarna_Bank_AB_publ_Annual_Report_2019_EN.pdf
 
-Splitit
+Splitit:
 https://spt.live.irmau.com/site/PDF/17092fbe-298e-4482-8c21-40a9e78f9df8/AnnualReportFY19
 
 Affirm:
@@ -87,7 +94,9 @@ https://media.sezzle.com/sezzle-credit-website-assets/investors-page/szl-announc
 
 I think Sezzle should offer more payment options to shoppers. This because users right now are constricted to following only one payment structure. By offering more payment structures it will give more versatility for shoppers. As some shoppers maybe more comfortable in Signing up for a longer pay back period even if that means they might have to pay for an extra few instalments. By doing this, Sezzle will be able to reach a larger market and converting a few more customers. In terms of technology, no additional upgrades are needed than what they are already using at the moment. 
 
-Sources in this case study:
+
+
+**Links for sources in this case study:**
 
 https://legal.sezzle.com/merchant
 
